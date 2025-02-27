@@ -1,4 +1,5 @@
-#hackerrank runup problem
+#hackerrank Runup problem
+
 if __name__ == '__main__':
     n = int(input())
     arr = list(map(int, input().split()))
